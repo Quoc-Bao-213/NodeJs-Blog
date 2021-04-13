@@ -25,7 +25,10 @@
   "homepage": "https://github.com/Quoc-Bao-213/NodeJs-Blog#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^5.3.0"
+    "express-handlebars": "^5.3.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.3",
+    "mongoose-slug-generator": "^1.0.4"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
